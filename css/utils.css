@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Protest+Strike&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+
+:root {
+    --main-bg-color: brown;
+    --font1: "Protest Strike", sans-serif;
+    --font2: "Protest Revolution", sans-serif;
+}
+
+.max-width-1 {
+    max-width: 100vw;
+}
+
+.max-width-2 {
+    max-width: 80vw;
+}
+
+.m-auto {
+    margin: auto;
+}
