@@ -46,7 +46,10 @@
     list-style: none;
     margin: 0 14px;
     font-family: var(--font1);
-    /*color: red;*/
+    /* color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .pagetopicon{
@@ -56,6 +59,7 @@
 .nav-right ul li a {
     text-decoration: none;
     color: green;
+    margin-left: 5px;
 }
 
 .nav-right ul li a:hover {
@@ -395,7 +399,7 @@
 
 .content-left-contact {
     font-family: var(--font1);
-    width: 50%;
+    width: 60%;
     /*align-items: center;*/
     display: flex;
     justify-content: center;
@@ -490,6 +494,12 @@
 
 .doodle5{
     bottom: 40px;
+}
+
+.nav-right li img{
+    height: 20px;
+    width: 20px;
+    border-radius: 30px;
 }
 
 /*

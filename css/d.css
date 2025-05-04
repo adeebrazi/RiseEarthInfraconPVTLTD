@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 85.5vh;
+    display: flex;
+}
+.ssp img{
+    width: 250px;
+    margin-top: 80px;
+    margin-left: 280px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+.csds img{
+    width: 250px;
+    margin-top: 80px;
+    margin-left: 280px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+.ssp{
+    width: 50vw;
+    height: 85.5vh;
+}
+.csds{
+    width: 50vw;
+    height: 85.5vh;
+}
+.cbtn{
+    height: 40px;
+    width: 400px;
+    border-radius: 50px;
+    margin-left: 210px;
+    margin-top: 50px;
+    font-family: var(--font1);
+    font-size:x-large;
+    background: transparent;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.cbtn:hover{
+    color: green;
+    border: 2px solid green;
+    background-color: rgba(128, 128, 128, 0.055) ;
+}
+.comingsoon{
+    height: 85.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
