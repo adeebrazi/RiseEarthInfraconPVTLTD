@@ -496,7 +496,7 @@
     bottom: 40px;
 }
 
-.nav-right li img{
+.nav-right ul li img{
     height: 20px;
     width: 20px;
     border-radius: 30px;
